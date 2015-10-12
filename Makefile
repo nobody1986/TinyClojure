@@ -1,4 +1,4 @@
-CC=c++ -std=gnu++11 -stdlib=libc++ -O3
+CC=g++ -std=c++11  -O3
 
 all: tclj
 
